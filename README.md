@@ -1,4 +1,7 @@
 # math_685
 Stuff for pilot course
 
-Add stuff here. 
+Student repos: 
+@Megan-E-Luke
+@planetirf
+@kjohnson156
